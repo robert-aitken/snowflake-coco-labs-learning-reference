@@ -1,7 +1,6 @@
 # Snowflake CoCo Labs Learning Reference
 
-Personal learning reference for [Snowflake Cortex Code (CoCo)]([https://docs.snowflake.com/en/user-guide/ui-snowsight/cortex-code](https://learn.snowflake.com/en/courses/OD-COCOESS/
-)) labs, covering data discovery, SQL optimization, pipeline building and Streamlit dashboard development.
+Personal learning reference for [Snowflake Cortex Code (CoCo)](https://learn.snowflake.com/en/courses/OD-COCOESS/) labs, covering data discovery, SQL optimization, pipeline building and Streamlit dashboard development.
 
 ## Labs Overview
 
